@@ -1,0 +1,14 @@
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\bin\Debug\net6.0\IceCreamManagementSystem.exe
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\bin\Debug\net6.0\IceCreamManagementSystem.deps.json
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\bin\Debug\net6.0\IceCreamManagementSystem.runtimeconfig.json
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\bin\Debug\net6.0\IceCreamManagementSystem.dll
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\bin\Debug\net6.0\IceCreamManagementSystem.pdb
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\IceCreamManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\IceCreamManagementSystem.AssemblyInfoInputs.cache
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\IceCreamManagementSystem.AssemblyInfo.cs
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\IceCreamManagementSystem.csproj.CoreCompileInputs.cache
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\IceCreamManagementSystem.dll
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\refint\IceCreamManagementSystem.dll
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\IceCreamManagementSystem.pdb
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\IceCreamManagementSystem.genruntimeconfig.cache
+C:\Y1S2\PRG2\Assignment\IceCreamManagementSystem\IceCreamManagementSystem\obj\Debug\net6.0\ref\IceCreamManagementSystem.dll
